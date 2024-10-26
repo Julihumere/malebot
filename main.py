@@ -11,15 +11,15 @@ Token = os.getenv('DISCORD_TOKEN')
 audios = [
     {
         'name': 'hijo de puta',
-        'audio': '../hijo_de_puta.mp3'
+        'audio': './audios/hijo_de_puta.mp3'
     },
     {
         'name': 'que linda cancion',
-        'audio': '../que_linda_cancion.mp3'
+        'audio': './audios/que_linda_cancion.mp3'
     },
     {
         'name': 'sapucai male',
-        'audio': '../sapucai.ogg'
+        'audio': './audios/sapucai.ogg'
     }
 ]
 

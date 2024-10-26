@@ -2,3 +2,4 @@ discord.py
 yt-dlp
 asyncio
 python-dotenv  # Si usas variables de entorno
+PyNaCl
